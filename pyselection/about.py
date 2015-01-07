@@ -7,8 +7,8 @@ summary      = "A Python wrapper for Codeml selection analysis"
 author_name  = "Thomas Walsh"
 author_email = "walsht26@mail.dcu.ie"
 copyright    = "Copyright 2015 Dublin City University (DCU)"
-package_url  = "http://localhost"
-download_url = "http://localhost"
+package_url  = "https://github.com/walsht26/PySelection"
+download_url = "https://github.com/walsht26/PySelection"
 packages     = [ "pyselection" ]
 scripts      = [ ]
 
